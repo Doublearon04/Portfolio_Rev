@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    /* text-align: center */
+  }
+  body{
+    font-family: 'Lato', sans-serif;
+  }
+  
+  div{
+      background: hsl(133, 100%, 91%)
+    }
+  .main-section .loreipsum{
+    color: grey;
+    font-style: Italic;
+  }
+  .main-section .Bold{
+    font-weight: 800;
+  }
+
+  .computer-screen{
+    border-radius: 30px;
+    width: 200px;
+    height:auto;
+  }
+  #my-proj{
+    cursor: not-allowed; 
+  }
+#headers{
+    text-align: center
+}
